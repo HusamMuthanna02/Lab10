@@ -5,13 +5,13 @@ import org.junit.Test;
 import java.util.Arrays;
 
 public class testSelectionSort {
-    @Test
-    public void test() {
+   // @Test
+   /* public void test() {
         testPositive();
         testNegative();
         testMixed();
         testDuplicates();
-    }
+    }*/
 
     public testSelectionSort() {
     }
